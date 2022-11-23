@@ -12,7 +12,7 @@
 - I also work for Santa Clara University's Cyberinfrastructure department as a Student Network Engineer  
   
 
-- In my free time, I enjoy participating in CTFs, hiking, and exploring.   
+- In my free time, I enjoy participating in CTFs, hiking, and exploring, as well as playing Minecraft and Nintendo games.   
   
 
 - Feel free to reach out!  
