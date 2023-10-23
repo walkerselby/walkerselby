@@ -6,7 +6,7 @@
 ### <div align="center">I'm Walker, a Computer Science Engineering student at Santa Clara University</div>  
   
 
-- I'm currently bouncing between personal, class, and open-source projects, such as [Not Enough Updates](https://github.com/NotEnoughUpdates/NotEnoughUpdates)  
+- I'm currently bouncing between personal, class, and open-source projects, such as [SkyHanni](https://github.com/hannibal002/SkyHanni) and [Not Enough Updates](https://github.com/NotEnoughUpdates/NotEnoughUpdates)  
   
 
 - I also work for Santa Clara University's Cyberinfrastructure department as a Student Network Engineer  
