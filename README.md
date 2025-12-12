@@ -3,16 +3,4 @@
 </div>  
   
 
-### <div align="center">I'm Walker, a Computer Science Engineering student at Santa Clara University</div>  
-  
-
-- I'm currently bouncing between personal, class, and open-source projects, such as [SkyHanni](https://github.com/hannibal002/SkyHanni) and [NotEnoughUpdates](https://github.com/NotEnoughUpdates/NotEnoughUpdates)  
-  
-
-- I also work for Santa Clara University's Information Security Office as a Student Information Security Analyst.
-  
-
-- In my free time, I enjoy participating in CTFs, hiking, and exploring, as well as playing Minecraft and Nintendo games.   
-  
-
-- Feel free to reach out!  
+### <div align="center">I'm Walker</div>  
